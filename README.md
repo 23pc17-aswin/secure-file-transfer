@@ -2,7 +2,7 @@
 
 A state-of-the-art, end-to-end encrypted file sharing application built with **Next.js** and **Vercel Blob**. Designed with absolute privacy in mind, this application uses military-grade browser encryption so that the server (and server admins) never once see the plaintext files or the passwords. 
 
-> **Live Demo:** *Replace with your Vercel Link here! (e.g. https://secure-file-transfer-five.vercel.app)*
+> **Live Demo:** *https://secure-file-transfer-five.vercel.app*
 
 ---
 
